@@ -84,5 +84,3 @@ This project analyzes the Titanic dataset and predicts passenger survival using 
 📌 Conclusion
 
 This project demonstrates how machine learning techniques like logistic regression can be applied to real-world datasets for prediction and analysis.
-
-Your Name
